@@ -10,7 +10,7 @@
    [Открыть папку с файлами](https://drive.google.com/drive/folders/1-VhtIBmaszbhC2gfrfQN1rVQHUqxJjqk?hl=ru)  
   
 4. Предварительная архитектура проекта (значительно изменялась в процессе разработки):  
-   [Открыть папку с архитектурой](https://drive.google.com/drive/folders/1-VhtIBmaszbhC2gfrfQN1rVQHUqxJjqk?hl=ru)  
+   [Открыть папку с архитектурой](https://drive.google.com/file/d/1pYV8rEIesbFxOIa63RTtPwYFuE6dkEdM/view?usp=sharing)  
   
 5. Краткое описание изменений:  
    - Были созданы менеджеры для управления коллизиями, звуком, спрайтами и анимациями.  
