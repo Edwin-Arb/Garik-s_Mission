@@ -7,7 +7,7 @@
    [Просмотреть документ](https://docs.google.com/document/d/1PVXK-9tD_Mn9Rr7zUbnBvGzsmgs-WWYV/edit)  
   
 3. Набросок карты, созданный в программе Tiled:  
-   [Открыть папку с файлами](https://drive.google.com/drive/folders/1-VhtIBmaszbhC2gfrfQN1rVQHUqxJjqk?hl=ru)  
+   [Открыть папку с файлами](https://drive.google.com/file/d/1lJTJ2qj_CszU9aoabMliYLQ1s0hWE2fi/view?usp=sharing)  
   
 4. Предварительная архитектура проекта (значительно изменялась в процессе разработки):  
    [Открыть папку с архитектурой](https://drive.google.com/file/d/1pYV8rEIesbFxOIa63RTtPwYFuE6dkEdM/view?usp=sharing)  
